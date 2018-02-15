@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-wot12txt
-=======
-wormix
->>>>>>> faetureo
-
-
